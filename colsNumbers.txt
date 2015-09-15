@@ -1,0 +1,58 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww28540\viewh11920\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 [\
+0 'MLB_ID', \
+1 'ESPN_ID', \
+2 'Name(LF)', \
+3 'Name(FL)',\
+4 'Team', \
+5 'H/A', \
+6 'Bats', \
+7 'Active', \
+8 'FD_pos', \
+9 'DK_pos', \
+10 'DD_pos', \
+11 'SF_pos', \
+12 'FD_sal', \
+13 'DK_sal', \
+14 'DD_sal', \
+15 'SF_sal', \
+16 'NP', \
+17 'PA', \
+18 'AB', \
+19 'Hits', \
+20 '2B', \
+21 '3B', \
+22 'HR', \
+23 'Runs', '\
+24 RBI', \
+25 'BB', \
+26 'IBB',\
+27 'SO', \
+28 'HBP', \
+29 'SB', \
+30 'CS',\
+31 'AVG', \
+32 'OBP', \
+33 'SLG', \
+34 'OPS', \
+35 'wOBA', \
+36 'MLB_ID(p)', \
+37 'ESPN_ID(p)', \
+38 'Pitcher_name(LF)',\
+39 Pitcher_name(FL)',\
+40 'P_Team', '\
+41 Throws', \
+42 'game_time', \
+43 'Stadium', \
+44 'FD_sal', \
+45 'DK_sal', \
+46 'DD_sal', \
+47 'SF_sal']\
+\
+\
+['545341', '31399', 'Grichuk, Randal', 'Randal Grichuk', 'stl', 'H', 'R', '1', '7', '7', '7', '7', '', '', '', '', '15', '3', '3', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '.000', '.000', '.000', '.000', '.000', '452657', '28487', 'Lester, Jon', 'Jon Lester', 'chc', 'L', '1:45 PM EDT', 'Busch Stadium', '', '', '', '']}
